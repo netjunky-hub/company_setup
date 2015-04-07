@@ -1,5 +1,5 @@
 # company_setup
-Company setup module with optional company customizations.
+Odoo company setup module with optional company customizations.
 
 1.) Replace default logo with your company logo
 
