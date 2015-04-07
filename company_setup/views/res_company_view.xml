@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<openerp>
+    <data>
+		<record id="base.main_company" model="res.company">
+		    <field name="name">Netjunky Ltd.</field>
+		    <field name="rml_header1"></field>
+		    <field name="currency_id" ref="base.HRK"/>
+		    <field name="street">Your company address</field>
+		    <field name="zip">HR-10 000</field>
+		    <field name="city">Zagreb</field>
+		    <field name="country_id" ref="base.hr"/>
+		    <field name="email">info@yourcompany.com</field>
+		    <field name="phone">+385 1 555 30 22</field>
+		    <field name="fax"> +385 1 555 30 21</field>
+		    <field name="website">www.yourcompany.com<</field>
+		    <field name="vat">HR12345678910</field>
+		    <field name="company_registry">1234567</field>
+		</record>
+    </data>
+</openerp>
