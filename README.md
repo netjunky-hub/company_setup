@@ -9,4 +9,4 @@ Odoo company setup module with optional company customizations.
 
 More info on our web site:
 
-<a href="http://netjunky.net/create-setup-module-for-odoo-and-change-company-logo">http://netjunky.net/create-setup-module-for-odoo-and-change-company-logo</a>
+<a href="http://netjunky.net/create-setup-module-for-odoo-and-change-company-logo" target="_blank">http://netjunky.net/create-setup-module-for-odoo-and-change-company-logo</a>
