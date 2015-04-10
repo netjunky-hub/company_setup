@@ -9,6 +9,7 @@
     'description': """
      *  Install all required modules with company customizations.
      *  Insert company info and logo
+     *  Checks the technical features box for administrator user.
     """,
     'author': 'netjunky.net',
     'website': 'www.netjunky.net',
@@ -16,6 +17,7 @@
     'init_xml': [],
     'data': [
         "views/res_company_view.xml",
+        "views/res_groups_view.xml",
     ],
     'demo_xml': [],
     'test': [
