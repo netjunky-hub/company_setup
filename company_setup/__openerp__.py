@@ -8,7 +8,7 @@
     'category': 'Hidden',
     'description': """
      *  Install all required modules with company customizations.
-     *  Insert company info and logo
+     *  Insert company info and logo.
      *  Checks the technical features box for administrator user.
     """,
     'author': 'netjunky.net',

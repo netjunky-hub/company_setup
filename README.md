@@ -7,6 +7,8 @@ Odoo company setup module with optional company customizations.
 
 3.) Install other modules and dependencies from __openerp__.py file
 
+4.) Checks the technical features box for administrator user.
+
 More info on our web site:
 
 <a href="http://netjunky.net/create-setup-module-for-odoo-and-change-company-logo" target="_blank">http://netjunky.net/create-setup-module-for-odoo-and-change-company-logo</a>
